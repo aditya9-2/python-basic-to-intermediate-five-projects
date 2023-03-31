@@ -15,7 +15,7 @@ This repository contains five Python projects that range from beginner to interm
 
 ### Dependencies
 
-All five projects require Python 3.6 or higher and specific Python libraries that can be installed using pip package manager.
+All five projects require Python 3.10 (As of now) for face recognization and 3.11 for others or higher and specific Python libraries that can be installed using pip package manager.
 
 ## How to Use
 
